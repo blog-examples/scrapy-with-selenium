@@ -11,3 +11,8 @@ scrapy에 selenium 연동 예제프로젝트
 - pycham
 
 
+## 크롤링 명령어
+```
+scrapy crawl naverbike
+```
+
